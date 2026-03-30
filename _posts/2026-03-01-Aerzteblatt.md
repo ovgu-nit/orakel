@@ -15,4 +15,4 @@ Etwa 50 % der Patienten mit Depression erleben trotz Behandlung einen Rückfall.
 ![](/vitalsigns/assets/theme/images/fb-26-3-af3d4147.webp)
 
 ## Fulltext Access
-[https://www.aerzteblatt-sachsen-anhalt.de/studie-orakel-rezidivfrueherkennung-depression-magdeburg-ki](https://www.aerzteblatt-sachsen-anhalt.de/studie-orakel-rezidivfrueherkennung-depression-magdeburg-ki)
+[https://www.aerzteblatt-sachsen-anhalt.de/component/content/article/die-orakel-studie-magdeburg-fb-2026-03](https://www.aerzteblatt-sachsen-anhalt.de/component/content/article/die-orakel-studie-magdeburg-fb-2026-03)
