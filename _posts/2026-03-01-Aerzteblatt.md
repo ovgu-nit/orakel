@@ -5,7 +5,7 @@ title: Die ORAKEL-Studie Magdeburg - Rezidivfrüherkennung bei Depression durch 
 background: /assets/theme/images/clinic_img.jpg
 image: /assets/theme/images/fb-26-3-af3d4147.webp
 categories: [Publication]
-tags: [Journal, IEEE]
+tags: [Journal, Ärzteblatt]
 
 ---
 
