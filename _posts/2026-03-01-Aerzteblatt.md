@@ -12,7 +12,7 @@ tags: [Journal, Ärzteblatt]
 ## Die ORAKEL-Studie Magdeburg - Rezidivfrüherkennung bei Depression durch KI-gestützte Audio-/Videoanalyse 
 
 Etwa 50 % der Patienten mit Depression erleben trotz Behandlung einen Rückfall. Die ORAKEL-Studie in Magdeburg testet, ob multimodale Audio-/Videoanalysen die Früherkennung dieser Rückfälle verbessern. Über einen Zeitraum von 48 Wochen werden sechs ärztlich-psychologische Verlaufsuntersuchungen durchgeführt, bei denen parallel Sprach-, Mimik- und Vitalparameter erfasst werden. Künstliche Intelli- genz (KI) Modelle sollen entwickelt werden, die Veränderungen erkennen, die sich leicht dem ärztlichen Blick entziehen – zur intelligenten Unterstützung, nicht zum Ersatz der klinischen Beurteilung.
-![](/vitalsigns/assets/theme/images/fb-26-3-af3d4147.webp)
+![](/orakel/assets/theme/images/fb-26-3-af3d4147.webp)
 
 ## Fulltext Access
 [https://www.aerzteblatt-sachsen-anhalt.de/component/content/article/die-orakel-studie-magdeburg-fb-2026-03](https://www.aerzteblatt-sachsen-anhalt.de/component/content/article/die-orakel-studie-magdeburg-fb-2026-03)
